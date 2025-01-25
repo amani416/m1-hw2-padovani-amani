@@ -1,7 +1,4 @@
-<!DOCTYPE html>
 <html lang="en">
-<body>
-<p>Assignment 2</p>
     <h1>My name is Amani Padovani<br>Welcome to my page!
     </h1>
 <h3>Few fun facts about me:
@@ -27,6 +24,5 @@
 <h3>Picture of my husband and I below!</h3>
 <img src="test.png" alt="Amani and Mike" width="800" height="600">
 
-</body>
 </body>
 </html>
