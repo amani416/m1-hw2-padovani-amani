@@ -2,11 +2,11 @@
     <h1>My name is Amani Padovani<br>Welcome to my page!
     </h1>
     <h2>Bio</h2>
-    <p>My name is Amani Padovani, formely known as Amani Flood. I graduated from the University of Florida in 2017 with a Bachelor degree in Digital Arts in Sciences. I am currently pursing a Master's certificate, I worked at Legoland Florida Resort and launched a new LMS program for the operations training team. I took a year off work to travel Europe and returned in 2020 amid a global pandemic. I am currently a part of the marketing team at a citrus factory in Central Florida. I see potential in my department and want to continue to grow within my field. </p>
+    <p>My name is Amani Padovani, formerly known as Amani Flood. I graduated from the University of Florida in 2017 with a Bachelor’s degree in Digital Arts and Sciences and am pursuing a Master’s certificate. I am currently a part of the marketing team at a citrus factory in Central Florida. I see potential in my department and want to continue to grow within my field. </p>
 <h3>Few fun facts about me:</h3>
 <ul>
   <li>I used to play soccer in high school.</li>
-  <li>I am currently pursuing a master's cetificate at the University of Florida.</li>
+  <li>I was born in Sweden.</li>
   <li>I have 2 dogs and 2 cats.</li>
   <li>I love to travel.</li>
 </ul> 
